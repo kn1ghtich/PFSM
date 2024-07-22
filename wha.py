@@ -1,0 +1,3 @@
+def gok():
+    print("WHAA")
+
